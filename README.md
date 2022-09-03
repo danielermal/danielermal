@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Меня зовут Даниил
+#### Я начинающий Frontend-разработчик
+*Стремлюсь к работе с настоящими боевыми проектами
+*Хочу перенимать опыт от более опытных коллег
+*Освоить новые фреймворки
+*Люблю frontend и планирую изучать его и дальше
 
-<!--
-**danielermal/danielermal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / REDUX / JS / TS / HTML / CSS / SCSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielermal)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielermal)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielermal&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/danielermal)  
