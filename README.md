@@ -6,7 +6,7 @@
 * Люблю frontend и планирую изучать его и дальше
 
 ### 🔨Мой стек:
-REACT / REDUX / JS / TS / HTML / CSS / SCSS
+REACT / REDUX / CYPRESS / JEST/ JS / TS / HTML / CSS / SCSS
 
 
 ### 📈Моя статистика:
