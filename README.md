@@ -13,4 +13,6 @@ REACT / REDUX / CYPRESS / JEST/ JS / TS / HTML / CSS / SCSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielermal)](https://github.com/anuraghazra/github-readme-stats)        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielermal&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/danielermal)  
+![Profile views](https://gpvc.arturio.dev/danielermal) 
+
+[![codewars](https://www.codewars.com/users/danielermal/badges/small)](https://www.codewars.com/users/danielermal)
